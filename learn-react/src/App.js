@@ -1,5 +1,6 @@
-// import logo from './logo.svg';
 import './App.css';
+import HelloWorld from './components/HelloWorld';
+import Frase from './components/Frase'
 
 function App() {
   const name = 'Randerson'
@@ -16,6 +17,8 @@ function App() {
       <p>Olá, { name.toUpperCase() }</p>
       <p>Somando 1 + 2 = {soma(1,2)}</p>
       <img src={url} alt="Minha image" />
+      <HelloWorld />
+      <Frase />
     </div>
   );
 }
