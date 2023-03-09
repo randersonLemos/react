@@ -1,0 +1,10 @@
+.personContainer {
+    background-color: rgb(179, 46, 46);
+    border: 1px solid #111;
+}
+
+.personContent {
+    color: rgb(81, 15, 15);
+    background-color: #333;
+    margin: 0;
+}

@@ -1,5 +1,5 @@
 # Where
-Finished class 4 from [react course](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO). 
+Finished class 6 from [react course](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO). 
 
 # Getting Started with Create React App
 
