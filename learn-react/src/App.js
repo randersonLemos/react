@@ -1,15 +1,11 @@
 import './App.css';
-import Person from './components/Person'
+import Form from './components/Form'
 
 function App() {
   return (
     <div className="App">  
-      <Person 
-        name='Randerson'
-        age='34'
-        labor='Computer Scientist'
-        photo='https://via.placeholder.com/150'    
-      />
+      <h1>FORMs</h1>
+      <Form></Form>
     </div>
   );
 }
