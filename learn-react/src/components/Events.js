@@ -1,3 +1,5 @@
+import Button from './Button'
+
 function Events({number}) {
 
     function listener(){
@@ -7,7 +9,7 @@ function Events({number}) {
     return (
         <div>
             <p>Click to trigger the event</p>
-            <button onClick={listener}>Activate!</button>
+            <Button event={listener} text='Primeiro Evento'/>
         </div>
 
     )
