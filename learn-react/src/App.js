@@ -1,11 +1,11 @@
 import './App.css';
-import Events from './components/Events'
+import Conditional from './components/Conditional'
 
 function App() {
   return (
     <div className="App">  
-      <h1>Events testing</h1>
-      <Events text='First event' number={10}></Events>
+      <h1>Conditional Render</h1>
+      <Conditional/>
     </div>
   );
 }
